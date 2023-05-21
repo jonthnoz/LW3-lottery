@@ -325,8 +325,8 @@ export default function Home() {
                         Welcome to Random Winner Game!
                     </h1>
                     <div className={styles.description}>
-                        It's a lottery game where a winner is chosen at random
-                        and wins the entire lottery pool
+                        It&#39;s a lottery game where a winner is chosen at
+                        random and wins the entire lottery pool
                     </div>
                     {renderButton()}
                     {logs &&
